@@ -1,0 +1,3 @@
+pip install pyinstaller
+cd to your file folder
+pyinstaller --onefile downloader.py
